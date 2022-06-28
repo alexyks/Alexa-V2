@@ -80,10 +80,11 @@ This module only works for my OᗯᑎEᖇ⚡
 ✮ 𝐆𝐫𝐨𝐮𝐩 ›› {}(<code>{}</code>)
 ✮ 𝐓𝐨𝐭𝐚𝐥 𝐌𝐞𝐦𝐛𝐞𝐫𝐬 ›› <code>{}</code>
 ✮ 𝐀𝐝𝐝𝐞𝐝 𝐁𝐲 ›› {}
+@CCG_POWER
 """
     LOG_TEXT_P = """#𝐍𝐞𝐰𝐔𝐬𝐞𝐫
 ✮ 𝐈𝐃 ›› <code>{}</code>
-✮ 𝐍𝐚𝐦𝐞 ›› {}
+✮ 𝐍𝐚𝐦𝐞 ›› {} @CCG_POWER
 """
     CARBON_TXT = """ <b>𝙲𝙰𝚁𝙱𝙾𝙽 𝙼𝙾𝙳𝚄𝙻𝙴</b>
 <b>𝚈𝙾𝚄 𝙲𝙰𝙽 𝙱𝙴𝙰𝚄𝚃𝙸𝙵𝚈 𝚈𝙾𝚄𝚁 𝙲𝙾𝙳𝙴𝚂 𝙱𝚈 𝚄𝚂𝙸𝙽𝙶 𝚃𝙷𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴...</b>
