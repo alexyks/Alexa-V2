@@ -8,5 +8,5 @@ else
 fi
 cd /Alexa-V2
 pip3 install -U -r requirements.txt
-echo "Starting Alexa-v2....🔥"
+echo "Starting CCG-V2 EDITED
 python3 bot.py
